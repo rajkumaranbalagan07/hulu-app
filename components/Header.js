@@ -25,6 +25,7 @@ export default function Header() {
       <Image
         src="https://links.papareact.com/ua6"
         width={200}
+        alt="img"
         height={100}></Image>
     </header>
   );
